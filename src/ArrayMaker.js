@@ -6,7 +6,7 @@ function arrayMaker(max) {
 
   } else {
     var tableau = [];
-    for (var i = 1; i <= max; i++) {
+    for (var i = 1;i <= max; i++) {
       tableau.push(i);
     }
     return tableau;
